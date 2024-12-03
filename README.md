@@ -34,3 +34,4 @@
 ### 必備工具  
 1. **編輯器**：建議安裝 [Visual Studio Code](https://code.visualstudio.com/)。  
 2. **Python 環境**：請安裝 [Python 3.10+](https://www.python.org/downloads/) 並確保已設定好環境變數。  
+2. **加入Google Meet教室**：請點擊右側連結加入 [Python 3.10+]() 並確保音訊設備（耳機、麥克風）可正常使用
