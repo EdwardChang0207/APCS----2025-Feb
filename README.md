@@ -37,8 +37,8 @@
 3. **加入Google Meet教室**：請點擊右側連結加入 [點我加入]() 並確保音訊設備（耳機、麥克風）可正常使用
 4. **ZeroJudge解題平台**：請點擊右側連結 [ZeroJudge](https://zerojudge.tw) 並使用Google帳號登入
 5. **作業繳交**：
-繳交期限：隔週週五00:00前
-繳交方式：將檔案(不要直接複製程式碼)使用電子郵件傳送至：funnycoding@letsfunnycoding.com
+繳交期限：隔週週五00:00前  
+繳交方式：將檔案(不要直接複製程式碼)使用電子郵件傳送至：funnycoding@letsfunnycoding.com  
 主旨：APCS課程作業-上課日期-姓名 eg.(APCS課程作業-0230-王大明)
 ---
 
