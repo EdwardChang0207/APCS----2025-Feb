@@ -12,7 +12,7 @@
 - **授課對象**：高中生或對程式設計有興趣並計畫參加 APCS 檢測的學員  
 - **課程時段**：每週日下午13:30-15:30
 - **課堂數**：初階：15 堂，進階：15堂，共 30 堂  
-- **課堂錄影**：課後錄影將上傳至 [YouTube 播放清單]()  
+- **課堂錄影**：課後錄影將上傳至 [YouTube 播放清單](https://www.youtube.com/playlist?list=PLdvY4QzZf7AlFMZIdgtbnmDTgh2WNZVz2)  
 
 ---
 
@@ -36,7 +36,8 @@
 2. **Python 環境**：請安裝 [Python 3.10+](https://www.python.org/downloads/) 並確保已設定好環境變數。  
 3. **加入Google Meet教室**：請點擊右側連結加入 [點我加入]() 並確保音訊設備（耳機、麥克風）可正常使用
 4. **ZeroJudge解題平台**：請點擊右側連結 [ZeroJudge](https://zerojudge.tw) 並使用Google帳號登入  
-登入後請點擊右上使用者->加入課程，課程代碼：NRs9Jv
+登入後請點擊右上使用者->加入課程，課程代碼：NRs9Jv  
+[點我觀看使用教學](https://youtu.be/ID5brYr5fvQ)
 5. **作業繳交**：  
 繳交期限：隔週週五00:00前  
 繳交方式：將檔案(不要直接複製程式碼)使用電子郵件傳送至：funnycoding@letsfunnycoding.com  
