@@ -34,7 +34,7 @@
 ### 必備工具  
 1. **編輯器**：建議安裝 [Visual Studio Code](https://code.visualstudio.com/)。  
 2. **Python 環境**：請安裝 [Python 3.10+](https://www.python.org/downloads/) 並確保已設定好環境變數。  
-3. **加入Google Meet教室**：請點擊右側連結加入 [點我加入]() 並確保音訊設備（耳機、麥克風）可正常使用
+3. **加入Google Meet教室**：請點擊右側連結加入 [點我加入](https://meet.google.com/nri-homu-psz) 並確保音訊設備（耳機、麥克風）可正常使用
 4. **ZeroJudge解題平台**：請點擊右側連結 [ZeroJudge](https://zerojudge.tw) 並使用Google帳號登入  
 登入後請點擊右上使用者->加入課程，課程代碼：NRs9Jv  
 [點我觀看使用教學](https://youtu.be/ID5brYr5fvQ)
