@@ -72,7 +72,9 @@ T         F         T
 F         T         T
 T         T         F
 F         F         F
-'''
 a = False
 b = False
 print((a or b) and (not(a and b)))
+'''
+if 's' in 'sdfghj':
+    print('hi')
