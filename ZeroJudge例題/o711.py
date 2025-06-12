@@ -5,7 +5,7 @@ water_in = list(map(int, input().split()))
 v = 0 #目前裝盛裝體積
 h_max = 0 #最大上升高度
 
-for i in water_in:
+for i in water_in:#i:每次加水量
     #溢出
     if v + i > w1**2*h1 + w2**2*h2:
         i = (w1**2*h1 + w2**2*h2) - v
@@ -17,7 +17,7 @@ for i in water_in:
     elif (v + i) > w1**2*h1 and v <= w1**2*h1:
         gap = w1**2*h1 - v
         h = int(gap / w1**2) + int((i-gap) / w2**2)
-    #第一層已裝滿
+    #第一層已裝滿->裝入第二層
     else:
         h = int(i / w2**2)
     
